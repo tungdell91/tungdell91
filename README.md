@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tungdell91
 - 👀 I’m interested in ReactJS
-- 🌱 I’m currently learning React
+- 🌱 I’m currently working with ReactJS
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
 
